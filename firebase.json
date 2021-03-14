@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": "public",
+    "site":"redbasket",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
